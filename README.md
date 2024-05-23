@@ -21,6 +21,7 @@ A página apresenta informações sobre a empresa, seus serviços e inclui um fo
 - [SheetMonkey API](https://sheetmonkey.io/)
 
 # Link do site: https://challenge1-dnc-landingpage.netlify.app/
+#Link para a planilha: https://docs.google.com/spreadsheets/d/1pbM96X_692Wtu-yHganHPFWkXjLcPEgMpg-LEZSLcYQ/edit#gid=0
 
 
 ![image](https://github.com/AnaRemedios/Desafio1-LandingPage/assets/169928633/641416cc-6de6-477b-b4ee-3b6871224edc)
